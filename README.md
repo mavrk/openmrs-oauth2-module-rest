@@ -1,2 +1,2 @@
-# openmrs-oauth2-module-rest
-OAuth2 modue  for OpenMRS pure rest
+# openmrs-module-oauth2-prototype
+The prototype of the OAuth2 module demonstrating the protocol flow for Authorization Code Grant Type
